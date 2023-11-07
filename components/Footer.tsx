@@ -22,9 +22,6 @@ const Footer = () => {
               EMAIL
             </Link>
             <Link className="hover:text-neutral-950" href={"/"}>
-              HOTLINE
-            </Link>
-            <Link className="hover:text-neutral-950" href={"/"}>
               ORGANIZATION
             </Link>
           </div>
