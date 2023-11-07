@@ -37,7 +37,7 @@ const HeroSection = () => {
               "
                 />
                 <figcaption className="absolute px-[24px] text-[12px] text-[#8C8C8C] bottom-6">
-                  <p>EXPLORE</p>
+                  <p>MONSTERA</p>
                 </figcaption>
               </figure>
             </Link>
@@ -60,7 +60,7 @@ const HeroSection = () => {
               "
                 />
                 <figcaption className="absolute px-[24px] text-[12px] text-[#8C8C8C] bottom-6">
-                  <p>EXPLORE</p>
+                  <p>PALM</p>
                 </figcaption>
               </figure>
             </Link>
@@ -83,7 +83,7 @@ const HeroSection = () => {
               "
                 />
                 <figcaption className="absolute px-[24px] text-[12px] text-[#8C8C8C] bottom-6">
-                  <p>EXPLORE</p>
+                  <p>FERN</p>
                 </figcaption>
               </figure>
             </Link>
@@ -106,7 +106,7 @@ const HeroSection = () => {
               "
                 />
                 <figcaption className="absolute px-[24px] text-[12px] text-[#8C8C8C] bottom-6">
-                  <p>EXPLORE</p>
+                  <p>PHILODENDRON</p>
                 </figcaption>
               </figure>
             </Link>
